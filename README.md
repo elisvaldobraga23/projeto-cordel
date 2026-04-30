@@ -39,6 +39,7 @@ Durante o desenvolvimento, foram praticados conceitos como:
 - Poema: Milton Duarte  
 
 ## 📸 Preview
+![Preview da Imagem](https://github.com/elisvaldobraga23/projeto-cordel/blob/main/imagens/preview-site.png)
 
 > Adicione aqui um print do projeto depois 👇  
 `imagens do site aqui`
